@@ -1,6 +1,6 @@
 """
 
-Conceitos de estruturas de dados mantidos e expandidos:
+Conceitos de estruturas de dados :
 - BST (Árvore Binária de Busca) para relatório ordenado em memória
 - Fila FIFO persistida para lista de espera
 - Relacionamento muitos-para-muitos (eventos <-> participantes)
